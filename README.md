@@ -4,7 +4,7 @@
 - 👀 I’m interested in modern web technologies like React, Next.js, and AI integration in web projects.
 - 🌱 I’m currently learning advanced concepts in React and Next.js, while also exploring innovative uses of AI tools in video generation and optimization.
 - 💞️ I’m looking to collaborate on web development projects, database optimization tasks, and creative applications of AI in IT solutions.
-- 📫 How to reach me: You can email me at [ilirjani.xhaferi@gmail.com] or check out my portfolio website at [your-portfolio-link].
+- 📫 How to reach me: You can email me at [ilirjani.xhaferi@gmail.com] or check out my portfolio website at [(https://github.com/Ilirjani-Al?tab=projects)].
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy combining my programming knowledge with educational content to create interactive tools and resources for learning!
 
